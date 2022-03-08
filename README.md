@@ -27,7 +27,7 @@ To get the project .......
  
 ##### Navigate into the folder and install requirements  
  ```
-cd instagram-clone
+cd instaclone
  pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual  
